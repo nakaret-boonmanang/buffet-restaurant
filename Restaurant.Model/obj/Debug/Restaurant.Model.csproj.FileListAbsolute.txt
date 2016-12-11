@@ -1,0 +1,10 @@
+D:\Assignments\Restaurant.Tests\Restaurant.Model\bin\Debug\Restaurant.Model.dll
+D:\Assignments\Restaurant.Tests\Restaurant.Model\bin\Debug\Restaurant.Model.pdb
+D:\Assignments\Restaurant.Tests\Restaurant.Model\obj\Debug\Restaurant.Model.dll
+D:\Assignments\Restaurant.Tests\Restaurant.Model\obj\Debug\Restaurant.Model.pdb
+D:\Assignments\Restaurant.Tests\Restaurant.Model\obj\Debug\Restaurant.Model.csprojResolveAssemblyReference.cache
+D:\Assignments\Restaurant\Restaurant.Model\bin\Debug\Restaurant.Model.dll
+D:\Assignments\Restaurant\Restaurant.Model\bin\Debug\Restaurant.Model.pdb
+D:\Assignments\Restaurant\Restaurant.Model\obj\Debug\Restaurant.Model.dll
+D:\Assignments\Restaurant\Restaurant.Model\obj\Debug\Restaurant.Model.pdb
+D:\Assignments\Restaurant\Restaurant.Model\obj\Debug\Restaurant.Model.csprojResolveAssemblyReference.cache

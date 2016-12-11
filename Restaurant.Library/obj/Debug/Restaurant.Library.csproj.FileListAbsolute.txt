@@ -1,0 +1,11 @@
+D:\Assignments\Restaurant.Tests\Restaurant.Library\bin\Debug\Restaurant.Library.dll
+D:\Assignments\Restaurant.Tests\Restaurant.Library\bin\Debug\Restaurant.Library.pdb
+D:\Assignments\Restaurant.Tests\Restaurant.Library\obj\Debug\Restaurant.Library.dll
+D:\Assignments\Restaurant.Tests\Restaurant.Library\obj\Debug\Restaurant.Library.pdb
+D:\Assignments\Restaurant\Restaurant.Library\bin\Debug\Restaurant.Library.dll
+D:\Assignments\Restaurant\Restaurant.Library\bin\Debug\Restaurant.Library.pdb
+D:\Assignments\Restaurant\Restaurant.Library\obj\Debug\Restaurant.Library.csprojResolveAssemblyReference.cache
+D:\Assignments\Restaurant\Restaurant.Library\obj\Debug\Restaurant.Library.dll
+D:\Assignments\Restaurant\Restaurant.Library\obj\Debug\Restaurant.Library.pdb
+D:\Assignments\Restaurant\Restaurant.Library\bin\Debug\Restaurant.Model.dll
+D:\Assignments\Restaurant\Restaurant.Library\bin\Debug\Restaurant.Model.pdb

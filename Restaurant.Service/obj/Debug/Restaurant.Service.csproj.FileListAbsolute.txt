@@ -1,0 +1,9 @@
+D:\Assignments\Restaurant\Restaurant.Service\bin\Debug\Restaurant.Service.dll
+D:\Assignments\Restaurant\Restaurant.Service\bin\Debug\Restaurant.Service.pdb
+D:\Assignments\Restaurant\Restaurant.Service\bin\Debug\Restaurant.Library.dll
+D:\Assignments\Restaurant\Restaurant.Service\bin\Debug\Restaurant.Model.dll
+D:\Assignments\Restaurant\Restaurant.Service\bin\Debug\Restaurant.Library.pdb
+D:\Assignments\Restaurant\Restaurant.Service\bin\Debug\Restaurant.Model.pdb
+D:\Assignments\Restaurant\Restaurant.Service\obj\Debug\Restaurant.Service.csprojResolveAssemblyReference.cache
+D:\Assignments\Restaurant\Restaurant.Service\obj\Debug\Restaurant.Service.dll
+D:\Assignments\Restaurant\Restaurant.Service\obj\Debug\Restaurant.Service.pdb

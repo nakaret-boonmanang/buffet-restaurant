@@ -1,0 +1,56 @@
+﻿@model Restaurant.ViewsModel.PaymentViewModel
+
+@{
+    ViewBag.Title = "Buffet Restaurant";
+}
+
+<h2>Payment</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    <div class="form-horizontal">
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            @Html.LabelFor(model => model.NumberOfCustomers, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.NumberOfCustomers, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.NumberOfCustomers, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.PricePerPerson, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.PricePerPerson, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.PricePerPerson, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.CouponCode, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.CouponCode, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.CouponCode, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Calculate Price" class="btn btn-default" />
+                @Html.ActionLink("Reset", "Calculate", null, new { @class = "btn btn-default" })
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="pay-info col-md-offset-2 col-md-10">
+                <ul>
+                    <li class="actual-price">@ViewBag.ActualPrice</li>
+                    <li class="discount">@ViewBag.Discount</li>
+                    <li class="total-price">@ViewBag.TotalPrice</li>
+                    <li class="description">@ViewBag.Description</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+}

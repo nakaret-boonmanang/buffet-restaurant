@@ -1,0 +1,24 @@
+﻿.pay-info ul{
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none;
+}
+
+.pay-info ul li.actual-price{
+    font-weight: bold;
+}
+
+.pay-info ul li.discount{
+    color: red;
+    font-weight: bold;
+}
+
+.pay-info ul li.total-price{
+    color: green;
+    font-weight: bold;
+}
+
+.pay-info ul li.description{
+    color: orange;
+    font-weight: bold;
+}
